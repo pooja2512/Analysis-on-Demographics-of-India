@@ -1,7 +1,7 @@
 # Analysis-on-Demographics-of-India
 
 ## Overview
-Performed web scraping on Wikipedia page and produced analysis report.
+Performed web scraping on Wikipedia page on Demographics of India and produced visualization using Plotly.
 
 [View the Project Here]()
 
@@ -13,5 +13,3 @@ The project involved data assessment and cleaning, performing EDA and drawing co
 
 ## Key Findings
 As per my overall analysis I have found
-
-
